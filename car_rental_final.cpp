@@ -6,8 +6,6 @@
 #include <dos.h>
 #include <iomanip> 
 #include <windows.h>
-//Brought To You by code-projects.org
-// included required library files
 using namespace std;
 class customer // customer class
 {
